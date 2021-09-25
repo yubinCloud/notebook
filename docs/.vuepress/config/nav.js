@@ -1,5 +1,10 @@
 // nav
 module.exports = [
   { text: '首页', link: '/' },
-  { text: '基础', link: '/basic/' },
+  {
+    text: 'NLP',
+    items: [
+      { text: '知识图谱', link: '/kg/' },
+    ]
+  },
 ]

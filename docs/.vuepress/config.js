@@ -8,7 +8,7 @@ module.exports = {
 
   title: "lab scratch",
   description: '实验室入门教程',
-  base: '/lab-scratch/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/notebook/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
