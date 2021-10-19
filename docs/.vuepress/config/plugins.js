@@ -107,4 +107,11 @@ module.exports = [
       },
     },
   ],
+  [
+      // 支持数学公式
+      // https://vuepress.github.io/zh/plugins/mathjax/
+      // npm install -D vuepress-plugin-mathjax
+      'vuepress-plugin-mathjax',
+      {}
+  ],
 ]
