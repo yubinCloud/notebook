@@ -8,7 +8,7 @@ module.exports = [
     ]
   },
   {
-    text: 'NLP',
+    text: 'AI',
     items: [
       { text: '知识图谱', link: '/kg/' },
     ]
