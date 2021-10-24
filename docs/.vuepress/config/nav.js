@@ -5,6 +5,7 @@ module.exports = [
     text: '基础',
     items: [
       { text: '计算机网络', link: '/network/' },
+      { text: '组成与设计', link: '/organization/' },
     ]
   },
   {
