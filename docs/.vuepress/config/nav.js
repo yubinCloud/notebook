@@ -5,6 +5,7 @@
  basicItems = [
   { text: '计算机网络', link: '/network/' },
   { text: '组成与设计', link: '/organization/' },
+  { text: '数据结构', link: '/data-structure/' },
 ]
 
 /**
