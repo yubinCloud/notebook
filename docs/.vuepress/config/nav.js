@@ -6,6 +6,7 @@
   { text: '计算机网络', link: '/network/' },
   { text: '计算机系统', link: '/computer-system/' },
   { text: '数据结构', link: '/data-structure/' },
+  { text: '计算机专业课', link: '/major/'}
 ]
 
 /**
