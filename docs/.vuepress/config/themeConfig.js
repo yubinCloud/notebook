@@ -52,7 +52,7 @@ module.exports = {
   },
   blogger: {
     // 博主信息，显示在首页侧边栏
-    avatar: '/img/avatar.jpg',
+    avatar: 'https://notebook-img-1304596351.cos.ap-beijing.myqcloud.com/head.jpg',
     name: '学习笔记',
     slogan: '啦啦啦，向太阳~',
   },
