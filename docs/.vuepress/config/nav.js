@@ -9,6 +9,10 @@
   { text: '计算机专业课', link: '/major/'}
 ]
 
+developItems = [
+  { text: '前端', link: '/front' },
+]
+
 /**
  * AI
  */
@@ -22,6 +26,10 @@ module.exports = [
   {
     text: '基础',
     items: basicItems
+  },
+  {
+    text: '开发',
+    items: developItems
   },
   {
     text: 'AI',
