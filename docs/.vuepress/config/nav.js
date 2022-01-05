@@ -10,7 +10,8 @@
 ]
 
 developItems = [
-  { text: '前端', link: '/front' },
+  { text: '前端', link: '/front/' },
+  { text: 'Java 开发', link: '/java/' },
 ]
 
 /**
