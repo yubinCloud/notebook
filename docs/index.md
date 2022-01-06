@@ -22,7 +22,3 @@ features: # 可选的
 postList: simple
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 ---
-
-## 页面导航
-
-test
