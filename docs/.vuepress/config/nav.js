@@ -14,6 +14,10 @@ developItems = [
   { text: 'Java 开发', link: '/java/' },
 ]
 
+dataScienceItems = [
+  { text: '爬虫', link: '/data-science/spider/' },
+]
+
 /**
  * AI
  */
@@ -27,10 +31,14 @@ module.exports = [
   {
     text: '基础',
     items: basicItems
-  },
+  }, 
   {
     text: '开发',
     items: developItems
+  },
+  {
+    text: '数据科学',
+    items: dataScienceItems
   },
   {
     text: 'AI',
