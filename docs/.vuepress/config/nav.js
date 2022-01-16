@@ -20,9 +20,11 @@ dataScienceItems = [
 
 /**
  * AI
+ * 
  */
 aiItems = [
   { text: '知识图谱', link: '/kg/' },
+  { text: '深度学习', link: '/deep-learning/' },
 ]
 
 // nav
