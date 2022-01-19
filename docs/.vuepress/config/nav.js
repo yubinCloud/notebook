@@ -27,6 +27,10 @@ aiItems = [
   { text: '深度学习', link: '/deep-learning/' },
 ]
 
+securityItems = [
+  { text: '网络安全', link: '/security/network-security/' },
+]
+
 // nav
 module.exports = [
   { text: '首页', link: '/' },
@@ -46,6 +50,10 @@ module.exports = [
     text: 'AI',
     items: aiItems
   },
+  {
+    text: '安全',
+    items: securityItems
+  }
 ]
 
 
