@@ -86,7 +86,7 @@ module.exports = {
     bgTimeColor: false,     // 是否开启图片的背景色随一天的不同时间而变化，默认是 false。时间分为四种：白天（原图）、黄昏（偏黄）、晚上（偏黑）、深夜（偏深黑）
     bgTimeColorArray: ['transparent', 'rgba(255, 148, 48, .2)', 'rgba(0, 0, 0, .3)', 'rgba(0, 0, 0, .5)'],   // 第一个是白天的颜色（默认原图），第二个是黄昏的颜色，第三个是晚上的颜色，第四个是深夜的颜色。bgTimeColor 为 true 生效
     descFadeIn: true,   // 是否开启图片中间描述的淡入效果，默认为 false
-    desc: ["愿原力与你同在"],  // 多个描述，如果填写则覆盖 config.js 的 description，不填写默认读取 config.js 的 description，descFadeIn 为 true 生效
+    desc: ["愿原力与你同在", "May the Force always be with you."],  // 多个描述，如果填写则覆盖 config.js 的 description，不填写默认读取 config.js 的 description，descFadeIn 为 true 生效
     descFontSize: '1.4rem',   // desc 的字体大小，默认 1.4rem。提示：原主题是 1.1rem
     descFadeInTime: 200,  // 描述的淡入效果持续时间，descFadeIn 为 true 生效，默认 200 毫秒
     descFadeOutTime: 100,  // 描述的淡出效果持续时间，descFadeIn 为 true 生效，默认 100 毫秒
