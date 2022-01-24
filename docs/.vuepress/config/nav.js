@@ -12,6 +12,7 @@
 developItems = [
   { text: '前端', link: '/front/' },
   { text: 'Java 开发', link: '/java/' },
+  { text: 'Git', link: '/git/' },
 ]
 
 dataScienceItems = [
