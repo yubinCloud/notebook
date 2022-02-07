@@ -32,6 +32,10 @@ securityItems = [
   { text: '网络安全', link: '/security/network-security/' },
 ]
 
+opsItems = [
+  { text: 'Linux', link: '/ops/linux/' },
+]
+
 // nav
 module.exports = [
   { text: '首页', link: '/' },
@@ -54,6 +58,10 @@ module.exports = [
   {
     text: '安全',
     items: securityItems
+  },
+  {
+    text: '运维',
+    items: opsItems
   }
 ]
 
