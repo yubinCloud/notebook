@@ -70,7 +70,7 @@ jobs:
         destination-repo: "git@gitee.com:yubinCloud/notebook.git"
   
   reload-gitee-pages:
-    needs: sync
+    needs: sync-gitee
     runs-on: ubuntu-latest
     steps:
       - name: Build Gitee Pages
