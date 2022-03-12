@@ -15,6 +15,15 @@ developItems = [
   { text: 'Git', link: '/git/' },
 ]
 
+middlewareItems = [
+  {
+    text: 'NoSQL',
+    items: [
+      { text: 'Elastic Search', link: '/elasticsearch/' },
+    ]
+  }
+]
+
 dataScienceItems = [
   { text: '爬虫', link: '/data-science/spider/' },
   { text: '大数据开发', link: 'https://www.yuque.com/yubincloud/big-data' },
@@ -47,6 +56,10 @@ module.exports = [
   {
     text: '开发',
     items: developItems
+  },
+  {
+    text: '中间件',
+    items: middlewareItems
   },
   {
     text: '数据科学',
