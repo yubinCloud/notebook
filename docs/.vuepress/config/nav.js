@@ -20,10 +20,6 @@ dataScienceItems = [
   { text: '大数据开发', link: 'https://www.yuque.com/yubincloud/big-data' },
 ]
 
-/**
- * AI
- * 
- */
 aiItems = [
   { text: '知识图谱', link: '/kg/' },
   { text: '深度学习', link: '/deep-learning/' },
@@ -35,6 +31,7 @@ securityItems = [
 
 opsItems = [
   { text: 'Linux', link: '/ops/linux/' },
+  { text: '容器', link: '/ops/container/' },
 ]
 
 // nav
