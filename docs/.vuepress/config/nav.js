@@ -31,7 +31,7 @@ securityItems = [
 
 opsItems = [
   { text: 'Linux', link: '/ops/linux/' },
-  { text: '容器', link: '/ops/container/' },
+  { text: '云原生', link: '/ops/cloud-native/' },
 ]
 
 // nav
