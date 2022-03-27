@@ -13,6 +13,12 @@ developItems = [
   { text: '前端', link: 'https://yubincloud.github.io/notebook-front/' },
   { text: 'Java 开发', link: '/java/' },
   { text: 'Git', link: '/git/' },
+  {
+    text: '常见开发工具',
+    items: [
+      { text: 'Nginx', link: '/nginx/' },
+    ]
+  },
 ]
 
 dataScienceItems = [
