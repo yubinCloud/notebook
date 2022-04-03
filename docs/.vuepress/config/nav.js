@@ -40,6 +40,10 @@ opsItems = [
   { text: '云原生', link: '/ops/cloud-native/' },
 ]
 
+myItems = [
+  { text: '收藏', link: '/pages/favorite/'},
+]
+
 // nav
 module.exports = [
   { text: '首页', link: '/' },
@@ -66,6 +70,10 @@ module.exports = [
   {
     text: '运维',
     items: opsItems
+  },
+  {
+    text: '我的',
+    items: myItems
   }
 ]
 
