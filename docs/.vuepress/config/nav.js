@@ -23,6 +23,7 @@ developItems = [
 
 dataScienceItems = [
   { text: '爬虫', link: '/data-science/spider/' },
+  { text: 'Python 数据分析', link: '/data-science/py-data-analysis/'},
   { text: '大数据开发', link: 'https://www.yuque.com/yubincloud/big-data' },
 ]
 
