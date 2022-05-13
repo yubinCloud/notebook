@@ -29,8 +29,9 @@ dataScienceItems = [
 ]
 
 aiItems = [
-  { text: '知识图谱', link: '/kg/' },
   { text: '深度学习', link: '/deep-learning/' },
+  { text: '机器学习', link: '/machine-learning/' },
+  { text: '知识图谱', link: '/kg/' },
 ]
 
 securityItems = [
