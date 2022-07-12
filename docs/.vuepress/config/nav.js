@@ -35,7 +35,7 @@ aiItems = [
 ]
 
 securityItems = [
-  { text: '网络安全', link: '/security/network-security/' },
+  { text: '应用安全', link: '/security/application-security/' },
 ]
 
 opsItems = [
