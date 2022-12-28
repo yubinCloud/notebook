@@ -19,7 +19,7 @@ developItems = [
     items: [
       { text: 'Nginx', link: '/nginx/' },
     ]
-  },
+  }
 ]
 
 dataScienceItems = [
@@ -75,6 +75,10 @@ module.exports = [
   {
     text: '运维',
     items: opsItems
+  },
+  {
+    text: '面试',
+    link: '/pages/interview/index/'
   },
   {
     text: '我的',
