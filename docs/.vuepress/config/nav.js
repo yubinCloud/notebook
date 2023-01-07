@@ -38,6 +38,7 @@ aiItems = [
 
 securityItems = [
   { text: '应用安全', link: '/security/application-security/' },
+  { text: '渗透测试', link: '/security/penetration/' },
 ]
 
 opsItems = [
