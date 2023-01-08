@@ -47,7 +47,8 @@ opsItems = [
 ]
 
 myItems = [
-  { text: '收藏', link: '/pages/favorite/'},
+  { text: '收藏', link: '/pages/my/favorite/' },
+  { text: 'paper 好句', link: '/pages/my/good-sentence/' }
 ]
 
 // nav
