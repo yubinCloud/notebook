@@ -26,7 +26,13 @@ dataScienceItems = [
   { text: '爬虫', link: '/data-science/spider/' },
   { text: 'Python 数据分析', link: '/data-science/py-data-analysis/'},
   { text: '大数据开发', link: 'https://www.yuque.com/yubincloud/big-data' },
-  { text: '数据密集型应用系统设计', link: '/data-science/DDIA/'},
+  { text: '数据密集型应用系统设计', link: '/data-science/DDIA/' },
+  {
+    text: '中间件',
+    items: [
+      { text: 'MySQL', link: '/mysql/' },
+    ]
+  }
 ]
 
 aiItems = [
