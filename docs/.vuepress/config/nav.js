@@ -31,6 +31,7 @@ dataScienceItems = [
     text: '中间件',
     items: [
       { text: 'MySQL', link: '/mysql/' },
+      { text: 'Redis', link: '/redis/' },
     ]
   }
 ]
