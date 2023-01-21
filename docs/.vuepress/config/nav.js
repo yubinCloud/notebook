@@ -14,7 +14,7 @@ developItems = [
   { text: 'Java 开发', link: '/java/' },
   { text: 'Python 开发', link: '/python/'},
   { text: 'Git', link: '/git/' },
-  { text: '软件设计与构架', link: '/software-architecture/' },
+  { text: '软件设计与架构', link: '/software-architecture/' },
   {
     text: '常见开发工具',
     items: [
