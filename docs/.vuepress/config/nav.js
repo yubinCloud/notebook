@@ -13,6 +13,7 @@ developItems = [
   { text: '前端', link: 'https://yubincloud.github.io/notebook-front/' },
   { text: 'Java 开发', link: '/java/' },
   { text: 'Python 开发', link: '/python/'},
+  { text: 'Golang 开发', link: '/golang/' },
   { text: 'Git', link: '/git/' },
   { text: '软件设计与架构', link: '/software-architecture/' },
   {
