@@ -33,6 +33,7 @@ dataScienceItems = [
     items: [
       { text: 'MySQL', link: '/mysql/' },
       { text: 'Redis', link: '/redis/' },
+      { text: 'Elasticsearch', link: '/elasticsearch/'}
     ]
   }
 ]
