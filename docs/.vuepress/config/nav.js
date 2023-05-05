@@ -16,6 +16,7 @@ developItems = [
   { text: 'Golang 开发', link: '/golang/' },
   { text: 'Git', link: '/git/' },
   { text: '软件设计与架构', link: '/software-architecture/' },
+  { text: '大数据与分布式系统', link: '/distributed-system/' },
   {
     text: '常见开发工具',
     items: [
@@ -27,7 +28,6 @@ developItems = [
 dataScienceItems = [
   { text: '爬虫', link: '/data-science/spider/' },
   { text: 'Python 数据分析', link: '/data-science/py-data-analysis/'},
-  { text: '大数据开发', link: 'https://www.yuque.com/yubincloud/big-data' },
   {
     text: '中间件',
     items: [
