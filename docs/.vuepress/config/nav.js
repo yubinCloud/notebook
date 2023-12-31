@@ -28,13 +28,14 @@ developItems = [
 dataScienceItems = [
   { text: '爬虫', link: '/data-science/spider/' },
   { text: 'Python 数据分析', link: '/data-science/py-data-analysis/'},
+  { text: '数据仓库', link: '/data-warehouse/' },
   {
     text: '中间件',
     items: [
       { text: 'MySQL', link: '/mysql/' },
       { text: 'Redis', link: '/redis/' },
       { text: 'Elasticsearch', link: '/elasticsearch/' },
-      { text: 'Kafka', link: '/kafka/'}
+      { text: 'Kafka', link: '/kafka/'},
     ]
   }
 ]
