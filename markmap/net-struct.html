@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.6.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.2.3"></script><script>((e,t,r)=>{const{Markmap:n}=e();window.mm=n.create("svg#mindmap",null==t?void 0:t(),r)})(()=>window.markmap,t=>{return t=t||window.d3,{color:(n=t.scaleOrdinal(t.schemeCategory10),t=>n(t.p.i))};var n},{"t":"heading","d":1,"p":{"lines":[0,1]},"v":"计算机网络结构","c":[{"t":"heading","d":2,"p":{"lines":[2,3]},"v":"网络边缘","c":[{"t":"list_item","d":4,"p":{"lines":[4,5]},"v":"主机"},{"t":"list_item","d":4,"p":{"lines":[6,7]},"v":"网络应用"}]},{"t":"heading","d":2,"p":{"lines":[8,9]},"v":"接入网络，物理介质","c":[{"t":"list_item","d":4,"p":{"lines":[10,11]},"v":"有线或无线通信链路"}]},{"t":"heading","d":2,"p":{"lines":[12,13]},"v":"网络核心（核心网络）","c":[{"t":"list_item","d":4,"p":{"lines":[14,15]},"v":"互联的路由器（或分组转发设备）"},{"t":"list_item","d":4,"p":{"lines":[15,16]},"v":"网络之网络"}]}]})</script>
+</body>
+</html>
